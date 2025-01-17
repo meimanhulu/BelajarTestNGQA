@@ -1,4 +1,4 @@
-package com.testNG;
+package com.testsqa;
 
 /**
  * Hello world!

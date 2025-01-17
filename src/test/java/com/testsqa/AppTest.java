@@ -1,4 +1,4 @@
-package com.testNG;
+package com.testsqa;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
