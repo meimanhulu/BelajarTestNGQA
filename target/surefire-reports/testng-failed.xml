@@ -5,7 +5,7 @@
     <classes>
       <class name="com.testsqa.CalculatorTest">
         <methods>
-          <include name="addTest"/>
+          <include name="bmi"/>
         </methods>
       </class> <!-- com.testsqa.CalculatorTest -->
     </classes>
