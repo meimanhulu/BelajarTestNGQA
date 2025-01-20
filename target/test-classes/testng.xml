@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite TestNG x Selenium">
-    <test name="Firt My Test">
+    <parameter name="x" value="10"></parameter>
+    <test name="Firt My Test1">
+
         <classes>
-            <class name="com.testsqa.CalculatorTest" />
+            <class name="com.testsqa.Demo5Test" />
+<!--            <class name="com.testsqa.CalculatorTest" />-->
+
         </classes>
     </test>
+
+<!--    <test name="Firt My Test2">-->
+<!--        <classes>-->
+<!--            <class name="com.testsqa.Demo2Test" />-->
+<!--        </classes>-->
+<!--    </test>-->
 </suite>
